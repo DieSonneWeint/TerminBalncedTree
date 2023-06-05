@@ -1,0 +1,18 @@
+﻿<Window x:Class="Rgr___BinTree_.CreateNewTerm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rgr___BinTree_"
+        mc:Ignorable="d"
+        Title="" Height="450" Width="800" Closing="Window_Closing">
+    <Grid>
+        <Label Content="Создание нового термина" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="36" Width="448" Height="61"/>
+        <TextBox Name="Description" HorizontalAlignment="Left" Height="196" Margin="366,177,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="403" TextChanged="Description_TextChanged"/>
+        <Button Name ="Create_Button" Content="Создать" HorizontalAlignment="Left" Height="68" Margin="36,305,0,0" VerticalAlignment="Top" Width="191" IsEnabled="False" Click="Create_Button_Click"/>
+        <Label Content="Термин :" HorizontalAlignment="Left" Margin="264,89,0,0" VerticalAlignment="Top" FontSize="22" Height="38"/>
+        <Label Content="Описание :" HorizontalAlignment="Left" Margin="240,167,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox Name="Termin" HorizontalAlignment="Left" Margin="366,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="403" Height="19" TextChanged="Termin_TextChanged"/>
+
+    </Grid>
+</Window>

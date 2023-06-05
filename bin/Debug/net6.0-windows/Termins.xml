@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfListBinTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListBinTree>
+    <name>Карандаш</name>
+    <link>TerminDesription\Карандаш.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Линейка</name>
+    <link>TerminDesription\Линейка.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Сумочка</name>
+    <link>TerminDesription\Сумочка.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест</name>
+    <link>TerminDesription\Тест.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест</name>
+    <link>TerminDesription\Тест.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Прадигма</name>
+    <link>TerminDesription\Прадигма.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест2</name>
+    <link>TerminDesription\Тест2.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест</name>
+    <link>TerminDesription\Тест.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест</name>
+    <link>TerminDesription\Тест.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Тест</name>
+    <link>TerminDesription\Тест.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>ррнон</name>
+    <link>TerminDesription\ррнон.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Алгоритм</name>
+    <link>TerminDesription\Алгоритм.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Программа</name>
+    <link>TerminDesription\Программа.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>API</name>
+    <link>TerminDesription\API.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Аргумент</name>
+    <link>TerminDesription\Аргумент.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>ASCII</name>
+    <link>TerminDesription\ASCII.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Булево (Boolean)</name>
+    <link>TerminDesription\Булево (Boolean).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Ошибка (Bug)</name>
+    <link>TerminDesription\Ошибка (Bug).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Символ (Char)</name>
+    <link>TerminDesription\Символ (Char).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Объект (Objects)</name>
+    <link>TerminDesription\Объект (Objects).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Объектно-ориентированное программирование (OOP)</name>
+    <link>TerminDesription\Объектно-ориентированное программирование (OOP).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Класс (Class)</name>
+    <link>TerminDesription\Класс (Class).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Код</name>
+    <link>TerminDesription\Код.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Интерфейс командной строки</name>
+    <link>TerminDesription\Интерфейс командной строки.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Компиляция (Compilation)</name>
+    <link>TerminDesription\Компиляция (Compilation).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Условные (Conditionals)</name>
+    <link>TerminDesription\Условные (Conditionals).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Константы (Constants)</name>
+    <link>TerminDesription\Константы (Constants).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Типы данных</name>
+    <link>TerminDesription\Типы данных.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Массив (Array)</name>
+    <link>TerminDesription\Массив (Array).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Декларация (Declaration)</name>
+    <link>TerminDesription\Декларация (Declaration).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Исключение (Exception)</name>
+    <link>TerminDesription\Исключение (Exception).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Выражение (Expression)</name>
+    <link>TerminDesription\Выражение (Expression).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Фрэймворк (Framework)</name>
+    <link>TerminDesription\Фрэймворк (Framework).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Жесткий код (Hardcode)</name>
+    <link>TerminDesription\Жесткий код (Hardcode).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Цикл (Loop)</name>
+    <link>TerminDesription\Цикл (Loop).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Бесконечный цикл (Endless loop)</name>
+    <link>TerminDesription\Бесконечный цикл (Endless loop).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Итерация (Iteration)</name>
+    <link>TerminDesription\Итерация (Iteration).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Ключевые слова (Keywords)</name>
+    <link>TerminDesription\Ключевые слова (Keywords).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Нуль (Null)</name>
+    <link>TerminDesription\Нуль (Null).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Операнд (Operand)</name>
+    <link>TerminDesription\Операнд (Operand).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Оператор (Operator)</name>
+    <link>TerminDesription\Оператор (Operator).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Переменная ( Variable)</name>
+    <link>TerminDesription\Переменная ( Variable).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Указатель (Pointer)</name>
+    <link>TerminDesription\Указатель (Pointer).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Язык высокого уровня (High-level language)</name>
+    <link>TerminDesription\Язык высокого уровня (High-level language).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Язык низкого уровня (Low-level language)</name>
+    <link>TerminDesription\Язык низкого уровня (Low-level language).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Машинный язык (Machine language)</name>
+    <link>TerminDesription\Машинный язык (Machine language).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Язык разметки (Markup language)</name>
+    <link>TerminDesription\Язык разметки (Markup language).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Пакет (Package)</name>
+    <link>TerminDesription\Пакет (Package).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Время выполнения (Runtime)</name>
+    <link>TerminDesription\Время выполнения (Runtime).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Бэкэнд (Backend)</name>
+    <link>TerminDesription\Бэкэнд (Backend).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Front-end (Front-end)</name>
+    <link>TerminDesription\Front-end (Front-end).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Серверная сторона (Server-side)</name>
+    <link>TerminDesription\Серверная сторона (Server-side).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Заявление (Statement)</name>
+    <link>TerminDesription\Заявление (Statement).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Синтаксис (Syntax)</name>
+    <link>TerminDesription\Синтаксис (Syntax).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>Токен (Token)</name>
+    <link>TerminDesription\Токен (Token).txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>ТерминДляТеста</name>
+    <link>TerminDesription\ТерминДляТеста.txt</link>
+  </ListBinTree>
+  <ListBinTree>
+    <name>ПРОВЕРКА</name>
+    <link>TerminDesription\ПРОВЕРКА.txt</link>
+  </ListBinTree>
+</ArrayOfListBinTree>

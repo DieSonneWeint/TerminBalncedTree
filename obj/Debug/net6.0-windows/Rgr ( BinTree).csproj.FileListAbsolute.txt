@@ -1,0 +1,23 @@
+C:\Users\drago\source\repos\Rgr ( BinTree)\bin\Debug\net6.0-windows\Rgr ( BinTree).exe
+C:\Users\drago\source\repos\Rgr ( BinTree)\bin\Debug\net6.0-windows\Rgr ( BinTree).deps.json
+C:\Users\drago\source\repos\Rgr ( BinTree)\bin\Debug\net6.0-windows\Rgr ( BinTree).runtimeconfig.json
+C:\Users\drago\source\repos\Rgr ( BinTree)\bin\Debug\net6.0-windows\Rgr ( BinTree).dll
+C:\Users\drago\source\repos\Rgr ( BinTree)\bin\Debug\net6.0-windows\Rgr ( BinTree).pdb
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree)_MarkupCompile.cache
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree)_MarkupCompile.lref
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).g.resources
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).AssemblyInfo.cs
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).dll
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\refint\Rgr ( BinTree).dll
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).pdb
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\Rgr ( BinTree).genruntimeconfig.cache
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\ref\Rgr ( BinTree).dll
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\CreateNewTerm.g.cs
+C:\Users\drago\source\repos\Rgr ( BinTree)\obj\Debug\net6.0-windows\CreateNewTerm.baml
